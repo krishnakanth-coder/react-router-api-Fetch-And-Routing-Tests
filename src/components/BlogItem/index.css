@@ -1,0 +1,33 @@
+/* Write your CSS code here */
+.user-card-container {
+  display: flex;
+  margin-bottom: 10px;
+  border: 1px solid #2f4f4f;
+  padding: 10px;
+  width: 100%;
+  border-radius: 10px;
+}
+.blog-list-text-container {
+  margin-left: 5px;
+}
+.topic-image {
+  width: 130px;
+  margin-right: 8px;
+}
+.author-image {
+  width: 50px;
+}
+.title {
+  font-size: 18px;
+  color: #000000;
+}
+.topic-text,
+.author-text {
+  color: #2f4f4f;
+}
+.link {
+  color: #fff;
+}
+.link:hover {
+  color: rgb(0, 255, 179);
+}
